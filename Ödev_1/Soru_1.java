@@ -1,11 +1,3 @@
-/*
- * Ödev 1 - Soru 1
- * 1'den 50'ye kadar olan tek ve çift sayıların toplamını bulan program.
- *
- * Beklenen çıktı:
- *   1'den 50'ye kadar olan tek sayıların toplamı: 625
- *   1'den 50'ye kadar olan çift sayıların toplamı: 650
- */
 public class Soru_1 {
     public static void main(String[] args) {
         // Toplamları tutacak değişkenler, başlangıçta 0

@@ -1,13 +1,3 @@
-/*
- * Ödev 1 - Soru 2
- * 12345 sayısının içinde 7 rakamının olup olmadığını kontrol eden program.
- *
- * Yöntem: Sayının son basamağı % 10 ile alınır, / 10 ile o basamak atılır.
- * Bu işlem sayı 0 olana kadar tekrarlanır ve her basamak 7 ile karşılaştırılır.
- *
- * Beklenen çıktı:
- *   12345 sayısının içinde 7 rakamı YOK.
- */
 public class Soru_2 {
     public static void main(String[] args) {
         int sayi = 12345;       // kontrol edilecek sayı
